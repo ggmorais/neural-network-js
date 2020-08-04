@@ -1,0 +1,15 @@
+.test {
+  color: blue;
+  font-size: 18px;
+  text-align: center;
+}
+
+.test:hover {
+  color: rgb(29, 39, 150);
+  color: #63706a;
+  font-size: 30px;
+}
+
+.other {
+  color: purple;
+}
